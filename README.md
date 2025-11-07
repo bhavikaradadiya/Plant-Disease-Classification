@@ -117,7 +117,7 @@ pip install -r requirements.txt
 ```
 
 ### 3  Open in Google Colab
-Upload the notebooks in `/notebooks/` and run each cell sequentially.
+Upload the notebooks in `/notebook/` and run each cell sequentially.
 
 ---
 
