@@ -9,7 +9,7 @@ The work demonstrates how modern AI methods can be applied to improve **agricult
 ## 🧑‍🎓 Project Details
 
 **Title:** Advanced Image Classification for Automated Disease Diagnosis Using Computer Vision  
-**Author:** Radadiya Bhavika Bavchandbhai  
+**Author:** Radadiya Bhavikaben Bavchandbhai  
 **Programme:** MSc Data Analytics  
 **Year:** 2025  
 **Institution:** Berlin School of Business and Innovation 
