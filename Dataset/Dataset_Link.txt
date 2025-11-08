@@ -1,0 +1,14 @@
+Dataset Used: Mango Leaf Disease Dataset (Kaggle)
+
+Classes (8 Total):
+
+Anthracnose
+Bacterial Canker
+Cutting Weevil
+Die Back
+Gall Midge
+Healthy
+Powdery Mildew
+Sooty Mould
+Dataset Size: 4,000 images (500 per class)
+Split: 80% Training | 20% Validation
