@@ -21,5 +21,7 @@ Each class folder contains 500 labeled images of mango leaves (total 4,000 image
 ## ⚙️ How to Use
 1. Download the dataset from the link above.  
 2. Extract it to the `dataset/` directory inside this repository.  
-3. Your path should look like:  
+3. Your path should look like:
+
+   /Plant-Disease-Classification/dataset/Anthracnose/IMG_001.jpg
 
