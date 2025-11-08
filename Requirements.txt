@@ -1,17 +1,20 @@
-# Core libraries
+# Core numerical and data processing libraries
 numpy==1.26.0
 pandas==2.2.2
 
-# Data visualization
+# Deep learning framework
+tensorflow==2.16.1
+keras==3.3.3
+
+# Image processing and visualization
+opencv-python==4.10.0.84
 matplotlib==3.9.2
 seaborn==0.13.2
+Pillow==10.4.0
 
-# Machine learning
+# Utilities
 scikit-learn==1.5.1
 
-# Optional (for data cleaning and exploration)
-scipy==1.13.1
-
-# Optional (if using Jupyter Notebook or Google Colab)
+# Optional (for running in Jupyter or Google Colab)
 jupyterlab==4.2.3
 
