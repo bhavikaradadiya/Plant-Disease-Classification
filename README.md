@@ -59,6 +59,13 @@ This single script contains:
 6. Visualization of accuracy/loss curves
 
 
+## 📊 Results
+
+Validation Accuracy: 89.63%
+
+Confusion Matrix and F1 scores demonstrate robust classification performance.
+
+
 ## 🧾 References
 
 He, K. et al. (2016). Deep Residual Learning for Image Recognition.
