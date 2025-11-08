@@ -42,5 +42,35 @@ The project uses a **Custom CNN architecture** built using TensorFlow and Keras 
 
    Custom_CNN.ipynb
 
+##  🧩 Main File — Custom_CNN.ipynb
+
+This single script contains:
+
+1. Dataset extraction and loading
+
+2. Data preprocessing and augmentation
+
+3. CNN model creation (Custom CNN)
+
+4. Model training and validation
+
+5. Evaluation metrics — Accuracy, Precision, Recall, F1-score
+
+6. Visualization of accuracy/loss curves
+
+
+## 🧾 References
+
+He, K. et al. (2016). Deep Residual Learning for Image Recognition.
+
+LeCun, Y. et al. (1998). Gradient-based Learning Applied to Document Recognition.
+
+Shorten, C. & Khoshgoftaar, T. (2019). Image Data Augmentation for Deep Learning.
+
+## 👩‍💻 Author
+
+Bhavika Bavchandbhai Radadiya
+Computer Vision and Artificial Intelligence (2025)
+
 
    
