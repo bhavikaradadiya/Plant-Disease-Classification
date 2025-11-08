@@ -1,4 +1,4 @@
-# 🌿 Advanced Image Classification for Automated Plant Disease Diagnosis
+# 🌿 Advanced Image Classification for Automated Plant Disease Diagnosis Using CNN
 
 This repository contains the implementation of a **Custom Convolutional Neural Network (CNN)** model that classifies plant leaf images into 38 disease or healthy categories using the **PlantVillage dataset**.  
 The project is implemented entirely in a single Python file — `plant_disease_detection.py`.
