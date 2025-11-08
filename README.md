@@ -33,5 +33,5 @@ The project uses a **Custom CNN architecture** built using TensorFlow and Keras 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plant-disease-detection-cnn.git
+   git clone https://github.com/yourusername/Plant-Disease-Classification.git
    cd plant-disease-detection-cnn
