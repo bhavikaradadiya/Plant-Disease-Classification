@@ -43,6 +43,11 @@ Through preprocessing, data augmentation, and fine-tuning, the model achieves st
 **Dataset Size:** 4,000 images (500 per class)  
 **Split:** 80% Training | 20% Validation  
 
+➡️ To use this project:
+1. Download the dataset from Kaggle.  
+2. Extract the folders into the `/dataset/` directory.  
+3. Run  script as shown in the notebook.
+
 ---
 
 ## ⚙️ Data Preprocessing
